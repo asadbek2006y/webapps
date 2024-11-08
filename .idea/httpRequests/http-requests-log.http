@@ -1,0 +1,38 @@
+POST http://localhost:8080/book-form
+Content-Type: application/json
+Content-Length: 139
+User-Agent: IntelliJ HTTP Client/IntelliJ IDEA 2024.2.4
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+
+{
+  "title": "The Great Gatsby",
+  "author": "F. Scott Fitzgerald",
+  "genre": "Fiction",
+  "price": 10.99,
+  "publishDate": "1925-04-10"
+}
+
+<> 2024-11-09T010709.201.txt
+
+###
+
+POST http://localhost:8080/book-form
+Content-Type: application/json
+Content-Length: 139
+User-Agent: IntelliJ HTTP Client/IntelliJ IDEA 2024.2.4
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+
+{
+  "title": "The Great Gatsby",
+  "author": "F. Scott Fitzgerald",
+  "genre": "Fiction",
+  "price": 10.99,
+  "publishDate": "1925-04-10"
+}
+
+<> 2024-11-09T004618.405.json
+
+###
+

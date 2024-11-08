@@ -1,0 +1,6 @@
+{
+  "timestamp": "2024-11-08T19:46:18.207+00:00",
+  "status": 405,
+  "error": "Method Not Allowed",
+  "path": "/book-form"
+}
